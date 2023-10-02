@@ -1,0 +1,22 @@
+ID,Name,L,T,P,S,C,Course_Pre_Req
+CS503,Machine Learning,3,0,2,7,4,"CS506, CS526"
+CS506,Data Structures and Algorithms,3,1,2,6,4,
+CS507,Multimedia Systems,2,0,2,5,3,CS518
+CS509,PG Software Lab,0,0,6,3,3,
+CS510,Advanced Computer Architecture,3,1,0,5,3,CS527
+CS512,Artificial Intelligence,3,0,2,7,4,"CS506, CS526"
+CS515,Computer Graphics,3,0,0,6,3,
+CS517,Digital Image Processing and Analysis,2,1,2,4,3,"CS506, CS526"
+CS521,Fundamentals of Data Science,2,0,2,5,3,"CS506, CS526"
+CS522,Social Computing and Networks,2,0,2,5,3,"CS506,CS526"
+CS524,Data  Mining,3,0,0,6,3,
+CS526,Mathematical Foundation of Computer Science,3,1,0,5,3,
+CS527,Computer Systems,3,0,2,7,4,
+CS533,Reinforcement Learning,2,0,2,5,3,"CS503, CS504"
+CS535,Introduction to Game Theory and Mechanism Design,3,1,0,5,3,CS503
+CS539,Internet of Things,3,0,0,6,3,
+CS604,Advanced Operating Systems,3,0,0,6,3,CS527
+CS612,Advanced Machine Learning,2,0,2,5,3,CS503
+CS616,Advanced Computer Vision,2,0,2,5,3,CS518
+CS620,Introduction to Spatial Computing,3,0,2,7,4,CS509
+CS518,Computer Vision,2,0,2,5,3,"CS506, CS526"
